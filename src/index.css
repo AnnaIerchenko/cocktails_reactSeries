@@ -238,8 +238,8 @@ img{
 .loader:before,
 .loader:after {
   background: transparent;
-  -webkit-animation: load1 1s infinite ease-in-out;
-  animation: load1 1s infinite ease-in-out;
+  -webkit-animation: all 1s infinite ease-in-out;
+  animation: all 1s infinite ease-in-out;
   width: 1em;
   height: 4em;
 }
